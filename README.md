@@ -25,8 +25,8 @@ Sines File Sanitizer is a robust C++ library designed to safely sanitize filenam
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/sines-file-sanitizer.git
-cd sines-file-sanitizer
+https://github.com/sinescode/SinesFileSanitizer.git
+cd SinesFileSanitizer
 ```
 
 2. Build and install:
